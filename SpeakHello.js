@@ -1,4 +1,4 @@
-var helloSpeaker = {}
+var helloSpeaker = {};
 
 helloSpeaker.speakWord = "Hello";
 
