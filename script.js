@@ -5,6 +5,7 @@
     for (var i = 0; i < names.length; i++) {
     
       var firstLetter = names[i].charAt(0).toLowerCase();
+        console.log(names[i] + " ");
     
       if (firstLetter === 'j') {
         byeSpeaker.speak(names[i]);
